@@ -1,4 +1,5 @@
-<div align="center">Hi 👋, I'm Osman
+<div align="center">
+### <div align="center">Hi 👋, I'm Osman
 A passionate backend developer from Turkey</div>  
   
 
@@ -80,13 +81,13 @@ A passionate backend developer from Turkey</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=osman-ulusan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-ulusan&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-![.NET](https://f4n3x6c5.stackpathcdn.com/article/what-is-net-core/Images/What%20Is%20.NET%20Core1.jpg)  
+<div align="right">
+<img src="https://f4n3x6c5.stackpathcdn.com/article/what-is-net-core/Images/What%20Is%20.NET%20Core1.jpg" align="right" style="width: 100%" />
+</div>  
   
 
 Along with .Net Core technology, I experience many technologies such as MediatR, CQRS, ApiGateWay, Ocelot, Consul, Redis, RabbitMQ and gain experience to use them when necessary.  
