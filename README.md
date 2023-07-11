@@ -86,7 +86,7 @@ A passionate backend developer from Turkey</div>
 <br/>  
 
 <div align="right">
-<img src="https://f4n3x6c5.stackpathcdn.com/article/what-is-net-core/Images/What%20Is%20.NET%20Core1.jpg" align="right" style="width: 100%" />
+<img src="https://files.virgool.io/upload/users/27182/posts/ovkmrexearax/klfpgxlpnmur.png" align="right" style="width: 100%" />
 </div>  
   
 
