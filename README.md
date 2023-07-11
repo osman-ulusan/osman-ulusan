@@ -1,5 +1,5 @@
 <div align="center">
-### <div align="center">Hi 👋, I'm Osman
+<div align="center">Hi 👋, I'm Osman
 A passionate backend developer from Turkey</div>  
   
 
