@@ -3,7 +3,7 @@
 A passionate backend developer from Turkey</div>  
   
 
-#### I've been working as a professional .net developer for about 4 years. In addition, I do react native developments.  Recently, I have been examining and testing cloud services, microservice architectures and software patterns.  
+#### I've been working as a professional .net developer for about 4 years. In addition, I do react native developments.  Recently, I have been examining and testing cloud services, microservice architectures and software desing patterns.  
   
 
 <br/>  
