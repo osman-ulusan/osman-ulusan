@@ -68,10 +68,16 @@ A passionate backend developer from Turkey</div>
 
 ## Connect with me  
 <div align="center">
+
 <a href="https://linkedin.com/in/osman-ulusan-517681122" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+    <img align="center" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
+
+<a href="mailto:osmanulusan34@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="osman ulusan"/>
+</a>
+
+</div> 
   
 
 <br/>  
